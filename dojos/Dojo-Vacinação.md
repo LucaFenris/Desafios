@@ -90,6 +90,6 @@ Faça o projeto em 3 etapas, onde.
 
 2ª Organize o código, deixe o mais legível possível, e limpo. Basicamente, mesmo quem não conhecer a linguagem, iria entender o que o código faz.
 
-3ª Deixe o código o mais performática possível, valide se um *for* ou *sort* estão feitos da forma mais performática.
+3ª Deixe o código o mais performático possível, valide se um *for* ou *sort* estão feitos da forma mais performática.
 
 > Antes de iniciar a codificação, faça um debate com os outros participantes, para definir a melhor estratégia de como será montado o código.
