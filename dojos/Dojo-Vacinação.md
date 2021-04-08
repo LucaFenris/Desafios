@@ -77,3 +77,19 @@ Exemplo de dados que devem existir em cada objeto.
 ```
 
 > Os dados estão no formato JSON apenas para melhor visualização, fique a vontade para escolher como trabalhar com os mesmos
+
+## Premissas de aceite
+
+O código deve ser feito seguindo TDD, utilize a melhor organização de pacotes, classes, nomenclaturas, etc. Adicione métricas de coverage, aceite como bom acima de 80%, envie para o sonar, se estiver tudo como A, seu projeto está ótimo.
+
+## Dicas para maior diversão
+
+Faça o projeto em 3 etapas, onde.
+
+1ª Entregue um código funcional, não se preocupe na divisão deste, e organização do código.
+
+2ª Organize o código, deixe o mais legível possível, e limpo. Basicamente, mesmo quem não conhecer a linguagem, iria entender o que o código faz.
+
+3ª Deixe o código o mais performática possível, valide se um *for* ou *sort* estão feitos da forma mais performática.
+
+> Antes de iniciar a codificação, faça um debate com os outros participantes, para definir a melhor estratégia de como será montado o código.
